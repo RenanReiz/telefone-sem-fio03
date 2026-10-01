@@ -1,2 +1,2 @@
 NOME: Renan dos Santos Reis 
-MENSAGEM: O futuro é glorioso.
+MENSAGEM: O banco de dados é utilizado para armazenar e organizar as informações de uma aplicação
